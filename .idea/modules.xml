@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FCS.iml" filepath="$PROJECT_DIR$/FCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jersey-client-1.18/jersey-client-1.18.iml" filepath="$PROJECT_DIR$/jersey-client-1.18/jersey-client-1.18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jersey-core-1.18/jersey-core-1.18.iml" filepath="$PROJECT_DIR$/jersey-core-1.18/jersey-core-1.18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jersey-json-1.18/jersey-json-1.18.iml" filepath="$PROJECT_DIR$/jersey-json-1.18/jersey-json-1.18.iml" />
+    </modules>
+  </component>
+</project>

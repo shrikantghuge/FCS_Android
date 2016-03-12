@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('jersey-core-1.18.jar'))
